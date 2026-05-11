@@ -8,6 +8,9 @@ O objetivo é simples: desviar de obstáculos e sobreviver o máximo de tempo po
 Você controla uma nave em um ambiente espacial onde meteoros surgem constantemente.
 A dificuldade aumenta com o tempo, exigindo reflexos rápidos e precisão.
 
+## Demonstração da tela de jogo
+<img width="1228" height="690" alt="demo" src="https://github.com/user-attachments/assets/0f4f6cb0-f9a7-484b-a94b-8245159aad7c" />
+
 ## 🌐 Versão Web
 
 Este projeto está disponível na versão Web (Unity WebGL).
